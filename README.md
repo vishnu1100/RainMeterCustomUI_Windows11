@@ -2,4 +2,5 @@
 
 ## Required Software (RainMeter)
 
-(./screenshot(1).png)
+
+ ![SCREENSHOT](./screenshot(1).png)  
