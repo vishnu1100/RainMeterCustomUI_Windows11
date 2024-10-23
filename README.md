@@ -7,5 +7,5 @@
 
 
 
-![BackgroundImage](bg.jpeg)
+![BackgroundImage](bg.jpg)
 
